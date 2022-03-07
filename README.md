@@ -6,13 +6,7 @@ Link is a privacy focused messaging service that allows for users to engage in e
 
 ## **How to Install**
 
-### Mac & Linux Users
-
-> Download code as zip file, or alternatively clone this repo
-
-### Windows Users
-
-> *Windows users can do the same as above, or can alternatively download the file from the releases page*
+> *Download code as zip file, or alternatively clone this repo*
 
 ---
 
